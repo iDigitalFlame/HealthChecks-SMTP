@@ -3,6 +3,8 @@
 This is a modified version of the healthchecks.io backends.py file with the ability to
 login using a SMTP account.
 
+Get Healthchecks.io here: https://github.com/healthchecks/healthchecks
+
 ## Installation Instructions
 
 Replace the default EmailBackend in "hc/accounts/backends.py" with this updated class.

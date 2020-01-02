@@ -1,4 +1,4 @@
-# Healthcheks SMTP Login Backend
+# Healthchecks SMTP Login Backend
 
 This is a modified version of the healthchecks.io backends.py file with the ability to
 login using a SMTP account.
